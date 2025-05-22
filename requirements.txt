@@ -1,0 +1,16 @@
+ipykernel
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-community
+langchain-core
+langchain-groq
+faiss-cpu
+pypdf
+python-dotenv
+langchain-huggingface
+pypdf2
+pytest 
+httpx 
+pytest-asyncio
